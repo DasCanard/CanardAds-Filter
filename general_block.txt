@@ -3,7 +3,6 @@
 ||bluemediafile.site/sw.js
 
 ! MegaUp Tempfix & Filter
-megaup.net##.metaRedirectWrapperBottomAds > div > a > img:style(margin-top: unset !important)
 ||megaup.net/sw.js
 
 ! IGG Filter
