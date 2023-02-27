@@ -8,3 +8,4 @@ megaup.net##.metaRedirectWrapperBottomAds > div > a > img:style(margin-top: unse
 
 ! IGG Filter
 igg-games.com##.uk-margin-medium-top > div:nth-of-type(2) > [href*="https://stARtgAmiNg.net/tienda/suscripcion-premium/"] > [src*="https://igg-games.com/wp-content/uploads/2023/02/660x90-netflix-min.jpg"]
+||igg-games.com/sw.js
