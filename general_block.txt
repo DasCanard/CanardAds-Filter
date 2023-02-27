@@ -1,0 +1,4 @@
+! Bluemedia Sitebar Ads
+||bluemediafile.site/imgads/*$image,1p
+! MegaUp Tempfix
+megaup.net##.metaRedirectWrapperBottomAds > div > a > img:style(margin-top: unset !important)
