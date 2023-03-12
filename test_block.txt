@@ -1,1 +1,13 @@
-||igg-games.com/sw.js
+clips.twitch.tv * 3p-frame block
+clips.twitch.tv * 3p-script block
+clips.twitch.tv twitch.map.fastly.net * noop
+clips.twitch.tv twitchcdn.net * noop
+www.twitch.tv * 3p block
+www.twitch.tv * 3p-frame block
+www.twitch.tv * 3p-script block
+www.twitch.tv cloudfront.net * noop
+www.twitch.tv frankerfacez.com * noop
+www.twitch.tv jtvnw.net * noop
+www.twitch.tv ttvnw.net * noop
+www.twitch.tv twitch.map.fastly.net * noop
+www.twitch.tv twitchcdn.net * noop
